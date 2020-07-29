@@ -1,0 +1,25 @@
+{
+  "name": "recipes-client",
+  "version": "1.0.0",
+  "description": "The client-side for the recipes sample application.",
+  "main": "assets/js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/lodash-rcipes.git"
+  },
+  "keywords": [
+    "lodash"
+  ],
+  "author": "Amen Ra <mojaray2k@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/lodash-rcipes/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/lodash-rcipes#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "recipes-api",
+  "version": "1.0.0",
+  "description": "Node.JS API for the recipes sample application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/lodash-rcipes.git"
+  },
+  "author": "Amen Ra <mojaray2k@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/lodash-rcipes/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/lodash-rcipes#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cookie-parser": "^1.4.0",
+    "cors": "^2.7.1",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "lodash": "^4.17.19",
+    "node-json-db": "^0.5.1"
+  }
+}

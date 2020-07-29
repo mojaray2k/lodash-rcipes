@@ -1,0 +1,74 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Derby Pie",
+      "description": "This pie served at the Kentucky Derby contains pecans with chocolate chips and a touch of bourbon.",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Kale Chips",
+      "description": "A healthy snack of crunchy kale seasoned with olive oil and salt.",
+      "userId": 2
+    }
+  ],
+  "recipeingredients": [],
+  "ingredients": [
+    {
+      "id": 1,
+      "title": "Pecans"
+    },
+    {
+      "id": 2,
+      "title": "Chocolate Chips"
+    },
+    {
+      "id": 3,
+      "title": "Coconut Oil"
+    },
+    {
+      "id": 4,
+      "title": "Kale"
+    },
+    {
+      "id": 5,
+      "title": "Olive Oil"
+    },
+    {
+      "id": 6,
+      "title": "Salt"
+    },
+    {
+      "id": 7,
+      "title": "Butter"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "ryan.miles58@example.com",
+      "username": "ryanmiles58"
+    },
+    {
+      "id": 2,
+      "email": "edgar.silva35@example.com",
+      "username": "edgarsilva35"
+    },
+    {
+      "id": 3,
+      "email": "misty.larson78@example.com",
+      "username": "mistylarson78"
+    },
+    {
+      "id": 4,
+      "email": "ricky.stewart38@example.com",
+      "username": "rickystewart38"
+    },
+    {
+      "id": 5,
+      "email": "gertrude.burton42@example.com",
+      "username": "gertrudeburton42"
+    }
+  ]
+}
