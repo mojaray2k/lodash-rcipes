@@ -23,7 +23,7 @@
   "homepage": "https://github.com/mojaray2k/lodash-rcipes#readme",
   "dependencies": {
     "es6-promise": "^3.0.2",
-    "lodash": "^4.6.1",
+    "lodash": "^4.17.21",
     "lodash-migrate": "^0.2.11",
     "whatwg-fetch": "^0.10.1"
   },
